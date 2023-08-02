@@ -1,0 +1,38 @@
+User Overview
+
+Total number of users: 5
+
+admin
+Total number of tasks assigned: 1
+Percentage of all tasks assigned: 100.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks not completed: 100.00%
+Percentage of tasks overdue: 0.00%
+
+bob
+Total number of tasks assigned: 0
+Percentage of all tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks not completed: 0.00%
+Percentage of tasks overdue: 0.00%
+
+sam
+Total number of tasks assigned: 0
+Percentage of all tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks not completed: 0.00%
+Percentage of tasks overdue: 0.00%
+
+zwe
+Total number of tasks assigned: 0
+Percentage of all tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks not completed: 0.00%
+Percentage of tasks overdue: 0.00%
+
+hhh
+Total number of tasks assigned: 0
+Percentage of all tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks not completed: 0.00%
+Percentage of tasks overdue: 0.00%
